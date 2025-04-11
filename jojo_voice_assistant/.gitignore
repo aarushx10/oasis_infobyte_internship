@@ -1,0 +1,6 @@
+EMAIL = ""
+PASSWORD = ""
+
+google_geminiapi = AIzaSyDXNpsX21kx2ZpeiRXlukE6Emm5Ok1K1fI
+WEATHER_FORECAST_API_KEY = c5dbe651f65a2b38b746db54d49c5f3c
+NEWS_API_KEY = c6d7b385d3b441dca7c1a6aba2da3412
